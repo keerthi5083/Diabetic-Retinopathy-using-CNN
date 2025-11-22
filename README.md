@@ -1,2 +1,2 @@
 # Diabetic-Retinopathy-using-CNN
-Deep Learning Project
+This project focuses on automated Diabetic Retinopathy classification using deep learning models such as EfficientNet-B4, DenseNet-201, and Xception. The dataset undergoes preprocessing and augmentation to improve model performance and generalization. The project includes training, validation, performance evaluation, and comparison of computational efficiency across models. It aims to support faster, scalable, and accurate DR detection for potential clinical use.
